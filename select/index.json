@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "embers",
+  "base_artist": "RED in BLUE",
+  "createdAt": "2026-02-08T05:14:09.363925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Embers",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/01_The_Embers_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Embers",
+      "artist": "Young Galaxy",
+      "has_synced": false,
+      "path": "select/02_Embers_Young_Galaxy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fallen Embers",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/03_Fallen_Embers_Enya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fallen Embers",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/04_Fallen_Embers_Enya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fallen Embers",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/05_Fallen_Embers_Enya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fallen Embers",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/06_Fallen_Embers_Enya.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Embers",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/07_Embers_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Embers of Love",
+      "artist": "Mich Gerber feat. Imogen Heap",
+      "has_synced": true,
+      "path": "select/08_Embers_of_Love_Mich_Gerber_feat._Imogen_Heap.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Embers",
+      "artist": "Cunninlynguists",
+      "has_synced": true,
+      "path": "select/09_Embers_Cunninlynguists.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Embers",
+      "artist": "Damon & Naomi",
+      "has_synced": false,
+      "path": "select/10_Embers_Damon_&_Naomi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Embers",
+      "artist": "Bolt Thrower",
+      "has_synced": false,
+      "path": "select/11_Embers_Bolt_Thrower.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Dying of the Embers",
+      "artist": "Cradle of Filth",
+      "has_synced": false,
+      "path": "select/12_The_Dying_of_the_Embers_Cradle_of_Filth.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Embers Fire",
+      "artist": "Paradise Lost",
+      "has_synced": false,
+      "path": "select/13_Embers_Fire_Paradise_Lost.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Embers Fire (Live at Shepherd's Bush Empire, London)",
+      "artist": "Paradise Lost",
+      "has_synced": false,
+      "path": "select/14_Embers_Fire_(Live_at_Shepherd's_Bush_Empire,_London)_Paradise_Lost.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "From the Embers",
+      "artist": "Diabulus In Musica",
+      "has_synced": true,
+      "path": "select/15_From_the_Embers_Diabulus_In_Musica.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Glowing Embers",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/16_Glowing_Embers_Sirenia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "embers",
+      "artist": "RED in BLUE",
+      "has_synced": false,
+      "path": "select/pl_01_embers_RED_in_BLUE.txt"
+    }
+  ]
+}
